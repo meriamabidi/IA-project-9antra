@@ -1,0 +1,9 @@
+requests
+beautifulsoup4
+pandas
+sentence-transformers
+transformers
+sentencepiece
+sacremoses
+lingua-language-detector
+streamlit

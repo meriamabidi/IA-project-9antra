@@ -1,0 +1,30 @@
+# Environment and secrets
+.env
+.env.*
+!.env.example
+
+# Python generated files
+__pycache__/
+*.py[cod]
+
+# Jupyter backups
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.venv/
+
+# Dependencies
+node_modules/
+
+# IDE files
+.idea/
+.vscode/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Large AI model files
+*.safetensors
+*.pt
